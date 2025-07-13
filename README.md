@@ -25,7 +25,8 @@ An AI-powered research assistant that allows users to upload PDF documents, auto
 | HuggingFace Transformers | Text summarization and NLP     |
 | SentenceTransformers   | Semantic similarity for Q&A      |
 | PyMuPDF / PyPDF2       | PDF parsing and text extraction  |
-| MongoDB Atlas          | Cloud-based NoSQL database       |
+| MongoDB Atlas          | Cloud-based NoSQL database  
+Postman                  |API Collection included
 
 ---
 
