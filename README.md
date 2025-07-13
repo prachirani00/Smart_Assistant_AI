@@ -61,7 +61,6 @@ Create a `.env` file inside the `backend/` directory and paste:
 MONGO_URI=mongodb+srv://<username>:<password>@cluster0.qaj8si8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 
-Replace `<PrachiRani00>` and `<Priya455>` with my MongoDB Atlas credentials.
 
 # 5. Run the Backend Server
 
