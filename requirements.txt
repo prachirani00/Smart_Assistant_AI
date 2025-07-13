@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+scikit-learn
+PyMuPDF
+gradio
+PyPDF2
+pymongo
+dnspython
+python-dotenv
