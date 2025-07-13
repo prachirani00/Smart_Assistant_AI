@@ -1,7 +1,7 @@
 
 # 🧠 Smart Assistant for Research Summarization
 
-An AI-powered research assistant that allows users to upload PDF documents, automatically summarize the content, ask contextual questions, and challenge themselves with smart MCQs — all integrated with a MongoDB database.
+An AI-powered research assistant that allows users to upload PDF documents, automatically summarize the content, ask contextual questions — all integrated with a MongoDB database.
 
 ---
 
@@ -34,8 +34,8 @@ An AI-powered research assistant that allows users to upload PDF documents, auto
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/smart-assistant.git
-cd smart-assistant
+git clone https://github.com/prachirani00/Smart_Assistant_AI/blob/main/README.md
+cd Smart_Assitant_AI
 ```
 
 ### 2. Create & Activate Virtual Environment (Optional)
